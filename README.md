@@ -1,3 +1,3 @@
 # web-performance
-Reaseach on web performance
-Created the repo
+Research on web performance
+Created my first repo
